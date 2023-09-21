@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heiwaryuu" alt="heiwaryuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 📫 How to reach me **vitor.carvalho.ufu@gmail.com**
 
