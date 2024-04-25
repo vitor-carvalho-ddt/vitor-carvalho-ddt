@@ -14,8 +14,8 @@
   <a href="mailto:vitor.carvalho.ufu@gmail.com" target="_blank">
     <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!"/>
   </a>
-  <a href="https://www.youtube.com/@horseyddtank424" target="_blank">
-    <img src="https://i.imgur.com/lSxaQo9.png" alt="YouTube Channel" style="padding-left: 20px;" />
+  <a href="https://www.youtube.com/@horseyddtank424" target="_blank", style="padding-left: 20px;">
+    <img src="https://i.imgur.com/lSxaQo9.png" alt="YouTube Channel"/>
   </a>
 
   
