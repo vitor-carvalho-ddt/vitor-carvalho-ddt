@@ -7,22 +7,20 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,mysql,postgres,aws,vim,neovim,python,c" />
   </a>
 
-  <h3 align="left">📫 Get in touch:</h3>
-  <a href="https://www.linkedin.com/in/vitorclima/" target="_blank">
-    <img src="https://i.imgur.com/9VNpYRm.png" alt="LinkedIn Profile"/>
-  </a>
-  <a href="mailto:vitor.carvalho.ufu@gmail.com" target="_blank">
-    <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!"/>
-  </a>
-  <a href="https://www.youtube.com/@horseyddtank424" target="_blank", style="padding-left: 20px;">
-    <img src="https://i.imgur.com/lSxaQo9.png" alt="YouTube Channel"/>
-  </a>
-
-  
-  <p>
-  </p>
+<h3 align="left">📫 Get in touch:</h3>
+<a href="https://www.linkedin.com/in/vitorclima/" target="_blank">
+  <img src="https://i.imgur.com/9VNpYRm.png" alt="LinkedIn Profile" />
+</a>
+<a href="mailto:vitor.carvalho.ufu@gmail.com" target="_blank">
+  <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!" />
+</a>
+<a href="https://www.youtube.com/@horseyddtank424" target="_blank" style="padding-left: 20px;">
+  <img src="https://i.imgur.com/lSxaQo9.png" alt="YouTube Channel" />
+</a>
 
 <p>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiwaryuu&show_icons=true&locale=en&layout=compact" alt="heiwaryuu" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiwaryuu&show_icons=true&locale=en&layout=compact" alt="heiwaryuu" />
 </p>
