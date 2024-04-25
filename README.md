@@ -15,8 +15,9 @@
     <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!"/>
   </a>
   <a href="https://www.youtube.com/@horseyddtank424" target="_blank">
-    <img src="https://i.imgur.com/lSxaQo9.png" alt="Youtube Channel"/>
+    <img src="https://i.imgur.com/lSxaQo9.png" alt="YouTube Channel" style="padding-left: 5px;" />
   </a>
+
   
   <p>
   </p>
