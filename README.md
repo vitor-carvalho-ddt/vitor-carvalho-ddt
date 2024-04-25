@@ -9,7 +9,10 @@
 
   <h3 align="left">📫 Get in touch:</h3>
   <a href="https://www.linkedin.com/in/vitorclima/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin," alt="LinkedIn Icon"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"/>
+  </a>
+  <a href="https://www.youtube.com/@horseyddtank424" target="_blank">
+    <img src="https://i.imgur.com/uyG7gGw.png" alt="Youtube Channel"/>
   </a>
   
   <p>
