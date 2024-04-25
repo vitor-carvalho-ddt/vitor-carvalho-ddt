@@ -9,7 +9,7 @@
 
   <h3 align="left">📫 Get in touch:</h3>
   <a href="https://www.linkedin.com/in/vitorclima/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>
+    <img src="https://i.imgur.com/9VNpYRm.png" alt="LinkedIn Profile"/>
   </a>
   <a href="mailto:vitor.carvalho.ufu@gmail.com" target="_blank">
     <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!"/>
