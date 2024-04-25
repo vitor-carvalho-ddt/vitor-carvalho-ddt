@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile"/>
   </a>
   <a href="mailto:vitor.carvalho.ufu@gmail.com" target="_blank">
-    <img src="https://i.imgur.com/6jKGr69.png" alt="Send me an Email!"/>
+    <img src="https://i.imgur.com/CWmOpKH.png" alt="Send me an Email!"/>
   </a>
   <a href="https://www.youtube.com/@horseyddtank424" target="_blank">
     <img src="https://i.imgur.com/lSxaQo9.png" alt="Youtube Channel"/>
