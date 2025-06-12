@@ -4,7 +4,7 @@
 <h3 align="left">🌱 Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,mysql,postgres,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,python,php,go,mysql,postgres,kubernetes,docker,aws" />
   </a>
 
 <h3 align="left">📫 Get in touch:</h3>
